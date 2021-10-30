@@ -9,3 +9,4 @@ RinsyuuMuu010/RinsyuuMuu010 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 Chinese language：每天记录一笔~
+If you want to find me.Please use e-mail.I like it.
