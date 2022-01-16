@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @RinsyuuMuu010
-- 👀 I’m interested in Touhou and Minecraft.
-- 🌱 I’m currently learning English and Japaness.
-- 💞️ I’m looking to collaborate on who can teach me use github.
-- 📫 How to reach me that you can through my e-mail:linshimengyu334@gmail.com
-
-<!---
-RinsyuuMuu010/RinsyuuMuu010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Chinese language：每天记录一笔~
-If you want to find me.Please use e-mail.I like it.
+初次见面~这里是临拾（梦雨）。
+本账号用于浏览Github内容。
+如需要联系，请致linshimengyu334@gmail.com。
+祝您有美好而快乐的一天(*^▽^*)。
+Thank for you reading！
